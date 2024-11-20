@@ -1,9 +1,9 @@
 import { View, Text } from "react-native"
 
-export default function Home() {
+export default function Createreminder() {
   return (
     <View>
-      <Text>Home</Text>
+      <Text>Createreminder</Text>
     </View>
   )
 }
